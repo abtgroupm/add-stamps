@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python stamps.py:*)",
+      "Bash(findstr:*)"
+    ]
+  }
+}
